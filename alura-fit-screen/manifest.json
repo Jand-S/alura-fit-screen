@@ -1,0 +1,30 @@
+{
+  "name": "Alura-Fit",
+  "version": "1.0.0",
+  "description": "Add new fit screen function to the Alura website",
+  "browser_action": {
+    "default_icon": "icons/icon.png"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "matches": [
+        "https://cursos.alura.com.br/course/*"
+      ],
+      "css": [
+        "css/styles.css"
+      ],
+      "js": [
+        "js/content.js"
+      ]
+    }
+  ],
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "contextMenus",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}
