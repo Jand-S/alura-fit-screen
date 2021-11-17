@@ -11,7 +11,7 @@ Extensão para o Chrome que remove as black bars dos cursos do alura.
 
 ## INSTALAÇÃO
 
-1º - Entre em chrome://extensions/ e habilite o modo desenvolvedor.
+1º - Entre em <a href="chrome://extensions/">Chorome Extension</a> e habilite o modo desenvolvedor.
 
 2º - Selecione a opção "carregar descompactado".
 
