@@ -8,3 +8,11 @@ Extensão para o Chrome que remove as black bars dos cursos do alura.
 ## Depois (pequeno botão 'fit-screen' adicionado)
 
 <img src="./example-pictures/ex-02.png" alt="Exemplo-02">
+
+## INSTALAÇÃO
+
+1º - Entre em chrome://extensions/ e habilite o modo desenvolvedor.
+
+2º - Selecione a opção "carregar descompactado".
+
+3º - Procure onde está  a pasta "alura-fit-screen" e selecione.
